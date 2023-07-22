@@ -1,5 +1,4 @@
 # NewsFeed :newspaper:
-
 A small project focused on practicing HTTP queries, Design patterns and JSON, given as a homework in the Modern Java Technologies course, FMI, 2023
 
 ## Task overview
